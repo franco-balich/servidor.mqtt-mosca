@@ -1,0 +1,5 @@
+https://youtu.be/HRrqF8ISQJs
+https://www.npmjs.com/package/aedes
+https://github.com/moscajs/aedes/tree/7e5a98045e4b3818887b75588d1386da354b96c5/docs
+https://www.npmjs.com/package/mqtt
+https://www.w3schools.com/jsref/met_win_setinterval.asp
